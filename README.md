@@ -1,6 +1,8 @@
 # SoftwareENG-Project
 Malware Incident Response System 
 
+Bu Proje Osman Furkan Önal tarafından yapılmıştır.
+
 Projede ki sistem bir demo sürümdür. Geliştirilmeye devam etmektedir.
 
 Projede EICAR Kullanılmaktadır fakat sisteminizde herhangi bir virüs programı veya Windows güvenlik duvarı açık olursa diye 
