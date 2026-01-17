@@ -1,0 +1,110 @@
+[2025-12-09 16:14:32] [ANALİZ] İnceleniyor: USABILITY TEST TEMPLATE.docx.pdf
+[2025-12-09 16:14:35] [ANALİZ] İnceleniyor: USABILITY TEST TEMPLATE.docx.pdf
+[2025-12-09 16:16:58] [ANALİZ] İnceleniyor: aqe.png
+[2025-12-09 16:17:01] [ANALİZ] İnceleniyor: aqe.png
+[2025-12-09 16:17:35] [ANALİZ] İnceleniyor: aqe - Kopya.png
+[2025-12-09 16:17:36] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:17:38] [ANALİZ] İnceleniyor: aqe - Kopya.png
+[2025-12-09 16:17:39] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:19:31] [ANALİZ] İnceleniyor: Adsız.png
+[2025-12-09 16:19:32] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:19:34] [ANALİZ] İnceleniyor: Adsız.png
+[2025-12-09 16:19:35] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:23:16] [ANALİZ] İnceleniyor: Adsız.png
+[2025-12-09 16:23:17] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:23:19] [ANALİZ] İnceleniyor: Adsız.png
+[2025-12-09 16:23:20] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:25:18] [ANALİZ] İnceleniyor: virus_testi.txt.txt
+[2025-12-09 16:25:18] [HATA] Hash alınamadı.
+[2025-12-09 16:25:20] [ANALİZ] İnceleniyor: virus_testi.txt.txt
+[2025-12-09 16:25:20] [HATA] Hash alınamadı.
+[2025-12-09 16:26:13] [ANALİZ] İnceleniyor: TOCTOU.pdf
+[2025-12-09 16:26:14] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:26:16] [ANALİZ] İnceleniyor: TOCTOU.pdf
+[2025-12-09 16:26:17] [BİLGİ] Dosya VirusTotal'de yok (Bilinmiyor). İşlem yapılmadı.
+[2025-12-09 16:29:15] [ANALİZ] İnceleniyor: test_virisu.txt
+[2025-12-09 16:29:16] [TEMİZ] Dosya güvenli. Tehdit yok.
+[2025-12-09 16:29:56] [ANALİZ] İnceleniyor: test_virusu.txt
+[2025-12-09 16:29:56] [TEHDİT] ZARARLI BULUNDU! (5 motor). Dosya: test_virusu.txt
+[2025-12-09 16:29:56] [MÜDAHALE] Dosya karantinaya alındı: test_virusu.txt
+[16:38:36] --- SİSTEM BAŞLATILDI ---
+[16:39:01] İnceleniyor: test_virusu.txt
+[16:39:01] [SİMÜLASYON] Test virüsü algılandı!
+[16:39:01] [TEHDİT] ZARARLI BULUNDU! (10 motor)
+[16:39:01] [MÜDAHALE] Dosya karantinaya taşındı: test_virusu.txt
+[16:39:09] --- SİSTEM DURDURULDU ---
+[16:42:03] --- SİSTEM BAŞLATILDI ---
+[16:42:14] İnceleniyor: test_virusu.txt
+[16:42:14] [SİMÜLASYON] Test virüsü algılandı!
+[16:42:14] [TEHDİT] ZARARLI BULUNDU! (10 motor)
+[16:42:14] [MÜDAHALE] Dosya karantinaya taşındı: test_virusu.txt
+[16:42:40] --- SİSTEM DURDURULDU ---
+[16:42:41] --- SİSTEM BAŞLATILDI ---
+[16:42:45] İnceleniyor: test_virusu.txt
+[16:42:45] [SİMÜLASYON] Test virüsü algılandı!
+[16:42:45] [TEHDİT] ZARARLI BULUNDU! (10 motor)
+[16:42:45] [MÜDAHALE] Dosya karantinaya taşındı: test_virusu.txt
+[16:43:21] --- SİSTEM DURDURULDU ---
+[16:43:21] --- SİSTEM BAŞLATILDI ---
+[16:43:40] İnceleniyor: 164245_test_virusu.txt
+[16:43:40] [SİMÜLASYON] Test virüsü algılandı!
+[16:43:40] [TEHDİT] ZARARLI BULUNDU! (10 motor)
+[16:43:40] [MÜDAHALE] Dosya karantinaya taşındı: 164245_test_virusu.txt
+[16:43:52] İnceleniyor: test_virisu - Kopya.txt
+[16:43:53] [TEMİZ] Dosya güvenli.
+[16:43:55] İnceleniyor: test_virisu - Kopya.txt
+[16:43:56] [TEMİZ] Dosya güvenli.
+[16:44:10] --- SİSTEM DURDURULDU ---
+[16:45:53] 🔍 [ANALİZ BAŞLADI] test_virisu.txt
+[16:45:54]    ├── 🛠️ Dosya yapısı ve bütünlüğü inceleniyor...
+[16:45:55]    ├── 🔑 Hash İmzası: e3b0c44298fc1c1...
+[16:45:55]    ├── 📡 Threat Intelligence sunucularına bağlanılıyor...
+[16:45:55] --- OTOMATİK KORUMA AKTİF ---
+[16:46:01] 🔍 [ANALİZ BAŞLADI] test_virisu.txt
+[16:46:02]    ├── 🛠️ Dosya yapısı ve bütünlüğü inceleniyor...
+[16:46:03]    ├── 🔑 Hash İmzası: e3b0c44298fc1c1...
+[16:46:03]    ├── 📡 Threat Intelligence sunucularına bağlanılıyor...
+[16:46:31] --- KORUMA DURDURULDU ---
+[16:46:32] --- OTOMATİK KORUMA AKTİF ---
+[16:46:42] 🔍 [ANALİZ BAŞLADI] test_virusu.txt
+[16:46:43]    ├── 🛠️ Dosya yapısı ve bütünlüğü inceleniyor...
+[16:46:44]    ├── 🔑 Hash İmzası: e3b0c44298fc1c1...
+[16:46:44]    ├── 📡 Threat Intelligence sunucularına bağlanılıyor...
+[16:46:46]    └── ⚠️ İMZALARDA EŞLEŞME BULUNDU!
+[16:46:46] 🚨 [ALARM] ZARARLI YAZILIM! (10 Motor)
+[16:46:47]    └── [MÜDAHALE] Dosya karantinaya taşındı.
+[20:34:58] --- OTOMATİK KORUMA AKTİF ---
+[20:35:29] 🔍 [ANALİZ BAŞLADI] 164647_test_virusu.txt
+[20:35:30]    ├── 🛠️ Dosya yapısı ve bütünlüğü inceleniyor...
+[20:35:31]    ├── 🔑 Hash İmzası: e3b0c44298fc1c1...
+[20:35:31]    ├── 📡 Threat Intelligence sunucularına bağlanılıyor...
+[20:35:33]    └── ⚠️ İMZALARDA EŞLEŞME BULUNDU!
+[20:35:33] 🚨 [ALARM] ZARARLI YAZILIM! (10 Motor)
+[20:35:34]    └── [MÜDAHALE] Dosya karantinaya taşındı.
+[20:35:48] --- KORUMA DURDURULDU ---
+[23:55:16] --- OTOMATİK KORUMA AKTİF ---
+[23:55:18] --- KORUMA DURDURULDU ---
+[23:55:19] --- OTOMATİK KORUMA AKTİF ---
+[23:55:24] 🔍 [ANALİZ BAŞLADI] 164245_test_virusu.txt
+[23:55:25]    ├── 🛠️ Dosya yapısı ve bütünlüğü inceleniyor...
+[23:55:26]    ├── 🔑 Hash İmzası: e3b0c44298fc1c1...
+[23:55:26]    ├── 📡 Threat Intelligence sunucularına bağlanılıyor...
+[23:55:28]    └── ⚠️ İMZALARDA EŞLEŞME BULUNDU!
+[23:55:28] 🚨 [ALARM] ZARARLI YAZILIM! (10 Motor)
+[23:55:29]    └── [MÜDAHALE] Dosya karantinaya taşındı.
+[13:45:46] ✅ Otomatik Koruma Aktif Edildi.
+[13:45:51] ℹ️ Analiz Başladı: 164214_test_virusu.txt
+[13:45:53] 🚨 ZARARLI YAZILIM TESPİT EDİLDİ! (10 Motor)
+[13:45:53] ✅ Karantinaya taşındı: 164214_test_virusu.txt
+[13:46:03] ℹ️ Analiz Başladı: test_virisu - Kopya.txt
+[13:46:05] ✅ Dosya Temiz.
+[13:46:10] ⚠️ Koruma Durduruldu.
+[13:46:11] ✅ Otomatik Koruma Aktif Edildi.
+[13:46:13] ⚠️ Koruma Durduruldu.
+[13:46:13] ✅ Otomatik Koruma Aktif Edildi.
+[13:46:14] ⚠️ Koruma Durduruldu.
+[13:46:16] ℹ️ Analiz Başladı: test_virisu - Kopya.txt
+[13:46:18] ✅ Dosya Temiz.
+[13:46:21] ✅ Otomatik Koruma Aktif Edildi.
+[16:03:18] ✅ Otomatik Koruma Aktif Edildi.
+[16:03:18] ⚠️ Koruma Durduruldu.
